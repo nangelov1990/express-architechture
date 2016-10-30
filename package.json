@@ -1,0 +1,19 @@
+{
+  "name": "express-arch-demo",
+  "version": "1.0.0",
+  "description": "full node-express app demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nangelov1990/express-architechture.git"
+  },
+  "author": "Nikola Angelov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nangelov1990/express-architechture/issues"
+  },
+  "homepage": "https://github.com/nangelov1990/express-architechture#readme"
+}
