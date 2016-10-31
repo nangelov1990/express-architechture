@@ -1,6 +1,8 @@
 'use strict'
 let homeController = require('./home')
+let usersController = require('./users')
 
 module.exports = {
-  home: homeController
+  home: homeController,
+  users: usersController
 }
